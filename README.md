@@ -8,4 +8,4 @@ Designed for platforms like Hotstar, EmoStream ensures seamless user interaction
 
 ## Architecture
 
-![Architecture Diagram] (https://github.com/Gowthami-LJ/EC-Team-4-emostream-concurrent-emoji-broadcast-over-event-driven-architecture/blob/main/Architecture%20Diagram.png?raw=true)
+![Architecture Diagram](https://github.com/Gowthami-LJ/EC-Team-4-emostream-concurrent-emoji-broadcast-over-event-driven-architecture/blob/main/Architecture%20Diagram.png?raw=true)
